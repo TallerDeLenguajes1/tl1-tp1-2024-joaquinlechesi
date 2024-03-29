@@ -2,7 +2,7 @@
 
 int main()
 {
-    int edad, *p_edad;
+    int *p_edad ,edad;
     edad = 28;
     p_edad = &edad;
     puts("Hola mundo");
